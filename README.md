@@ -1,9 +1,5 @@
 # 🛸 Spaceship Titanic - Machine Learning Classification
 
-<p align="center">
-  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/31344/logos/header.png" width="70%">
-</p>
-
 ## 📘 Overview
 
 This project is a solution to the [Kaggle Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview) competition, which tasks participants with predicting whether a passenger was transported to another dimension during a fictional interstellar accident. Using a mix of numerical and categorical features, the goal is to build a robust classification model to predict the `Transported` status of passengers.
@@ -104,8 +100,8 @@ To run the notebook:
 
 ## 🙋‍♂️ Author
 
-**Hafizh Syihabuddin Al Jauhar**
-Machine Learning & Data Science Enthusiast
+**Hafizh Syihabuddin Al Jauhar**  
+Machine Learning & Data Science Enthusiast  
 📧 [aljauhar.hafizh6@gmail.com](mailto:aljauhar.hafizh6@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/hafizhsyihabuddinaljauhar/)
 
 ---
