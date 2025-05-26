@@ -18,9 +18,16 @@ The spaceship Titanic has met with a tragic fate, and many of its passengers hav
 
 Spaceship-Titanic/
 │
-├── 5c15fad7-f495-4a76-8a0c-3d19d8b7bbba.ipynb   # Jupyter Notebook containing full data exploration & model training
-├── README.md                                    # Project documentation
-└── requirements.txt                             # (optional) List of Python dependencies
+├── notebook/
+│   └── spaceship-titanic.ipynb
+├── README.md
+├── requirements.txt
+├── output/
+│   └── submission.csv
+├── dataset/
+│   └── train.csv
+│   └── test.csv
+│   └── sample_submission.csv
 
 ```
 
@@ -72,7 +79,7 @@ To run the notebook:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/spaceship-titanic.git
+   git clone https://github.com/hifizhhh/Spaceship-Titanic.git
    cd spaceship-titanic
    ```
 
@@ -92,12 +99,6 @@ To run the notebook:
 
 ---
 
-## 📌 Competition Link
-
-🔗 [Kaggle Competition: Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview)
-
----
-
 ## 🙋‍♂️ Author
 
 **Hafizh Syihabuddin Al Jauhar**  
@@ -108,7 +109,7 @@ Machine Learning & Data Science Enthusiast
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is intended for educational and non-commercial use only.
 
 ```
 
